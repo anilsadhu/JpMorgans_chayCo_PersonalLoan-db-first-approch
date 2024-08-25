@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JpMorgans_chayCo_PersonalLoan", "JpMorgans_chayCo_PersonalLoan\JpMorgans_chayCo_PersonalLoan.csproj", "{76CF5899-8945-424A-8B79-944500D4B547}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JpMorgans_chayCo_PersonalLoanBusinessEntities", "JpMorgans_chayCo_PersonalLoanBusinessEntities\JpMorgans_chayCo_PersonalLoanBusinessEntities.csproj", "{D6C167F4-3771-47AD-B9F6-D1D53F549052}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JpMorgans_chayCo_PersonalLoan.DataBaseLogic", "JpMorgans_chayCo_PersonalLoan.DataBaseLogic\JpMorgans_chayCo_PersonalLoan.DataBaseLogic.csproj", "{82435515-7E3C-4105-952E-32252FA6FF41}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JpMorgans_chayCo_PersonalLoan.RepositoryLayer", "JpMorgans_chayCo_PersonalLoan.RepositoryLayer\JpMorgans_chayCo_PersonalLoan.RepositoryLayer.csproj", "{9402CC13-D52F-4F7B-BE1D-9A752BF69CCC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JpMorgans_chayCo_PersonalLoan.ServiceLayer", "JpMorgans_chayCo_PersonalLoan.ServiceLayer\JpMorgans_chayCo_PersonalLoan.ServiceLayer.csproj", "{1E51C53A-B70E-471B-AD32-0BCE0DA36185}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{76CF5899-8945-424A-8B79-944500D4B547}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76CF5899-8945-424A-8B79-944500D4B547}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76CF5899-8945-424A-8B79-944500D4B547}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76CF5899-8945-424A-8B79-944500D4B547}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6C167F4-3771-47AD-B9F6-D1D53F549052}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6C167F4-3771-47AD-B9F6-D1D53F549052}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6C167F4-3771-47AD-B9F6-D1D53F549052}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6C167F4-3771-47AD-B9F6-D1D53F549052}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82435515-7E3C-4105-952E-32252FA6FF41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82435515-7E3C-4105-952E-32252FA6FF41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82435515-7E3C-4105-952E-32252FA6FF41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82435515-7E3C-4105-952E-32252FA6FF41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9402CC13-D52F-4F7B-BE1D-9A752BF69CCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9402CC13-D52F-4F7B-BE1D-9A752BF69CCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9402CC13-D52F-4F7B-BE1D-9A752BF69CCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9402CC13-D52F-4F7B-BE1D-9A752BF69CCC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E51C53A-B70E-471B-AD32-0BCE0DA36185}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E51C53A-B70E-471B-AD32-0BCE0DA36185}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E51C53A-B70E-471B-AD32-0BCE0DA36185}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E51C53A-B70E-471B-AD32-0BCE0DA36185}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8D0779C3-49CF-406C-AE11-DBA71E1D46D9}
+	EndGlobalSection
+EndGlobal
